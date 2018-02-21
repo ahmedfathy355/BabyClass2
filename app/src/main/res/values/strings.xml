@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Baby Class</string>
+    <string name="title_activity_album">AlbumActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+
+    <string name="err_msg_name">error in name</string>
+    <string name="err_msg_password">error in password</string>
+    <string name="err_msg_nationalID">error in national ID</string>
+    <string name="err_msg_email">Email Error</string>
+</resources>
